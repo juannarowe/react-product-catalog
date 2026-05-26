@@ -1,8 +1,8 @@
 import type { Product } from '../types/Product';
 
-export const initialProducts: Product[] = [
+export const products: Product[] = [
     { 
-        id: '1',
+        id: 1,
         price: 100,
         title: 'Title',
         description: 'Description', 
@@ -11,7 +11,7 @@ export const initialProducts: Product[] = [
         category: 'Category'
     },
     { 
-        id: '2',
+        id: 2,
         price: 100,
         title: 'Title',
         description: 'Description', 
@@ -20,7 +20,7 @@ export const initialProducts: Product[] = [
         category: 'Category'
     },
     { 
-        id: '3',
+        id: 3,
         price: 100,
         title: 'Title',
         description: 'Description', 
@@ -29,7 +29,7 @@ export const initialProducts: Product[] = [
         category: 'Category'
     },
     { 
-        id: '4',
+        id: 4,
         price: 100,
         title: 'Title',
         description: 'Description', 
@@ -38,7 +38,7 @@ export const initialProducts: Product[] = [
         category: 'Category'
     },
     { 
-        id: '5',
+        id: 5,
         price: 100,
         title: 'Title',
         description: 'Description', 
@@ -47,7 +47,7 @@ export const initialProducts: Product[] = [
         category: 'Category'
     },
     { 
-        id: '6',
+        id: 6,
         price: 100,
         title: 'Title',
         description: 'Description', 
@@ -56,7 +56,7 @@ export const initialProducts: Product[] = [
         category: 'Category'
     },
     { 
-        id: '7',
+        id: 7,
         price: 100,
         title: 'Title',
         description: 'Description', 
@@ -65,7 +65,7 @@ export const initialProducts: Product[] = [
         category: 'Category'
     },
     { 
-        id: '8',
+        id: 8,
         price: 100,
         title: 'Title',
         description: 'Description', 
@@ -74,7 +74,7 @@ export const initialProducts: Product[] = [
         category: 'Category'
     },
     { 
-        id: '9',
+        id: 9,
         price: 100,
         title: 'Title',
         description: 'Description', 
@@ -83,7 +83,7 @@ export const initialProducts: Product[] = [
         category: 'Category'
     },
     { 
-        id: '10',
+        id: 10,
         price: 100,
         title: 'Title',
         description: 'Description', 
